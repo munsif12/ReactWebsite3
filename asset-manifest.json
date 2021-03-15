@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite3/static/css/main.b75fa142.chunk.css",
+    "main.js": "/ReactWebsite3/static/js/main.30b15669.chunk.js",
+    "main.js.map": "/ReactWebsite3/static/js/main.30b15669.chunk.js.map",
+    "runtime-main.js": "/ReactWebsite3/static/js/runtime-main.d05df7db.js",
+    "runtime-main.js.map": "/ReactWebsite3/static/js/runtime-main.d05df7db.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ReactWebsite3/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5d4f6569.chunk.js": "/ReactWebsite3/static/js/2.5d4f6569.chunk.js",
+    "static/js/2.5d4f6569.chunk.js.map": "/ReactWebsite3/static/js/2.5d4f6569.chunk.js.map",
+    "index.html": "/ReactWebsite3/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ReactWebsite3/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b75fa142.chunk.css.map": "/ReactWebsite3/static/css/main.b75fa142.chunk.css.map",
+    "static/js/2.5d4f6569.chunk.js.LICENSE.txt": "/ReactWebsite3/static/js/2.5d4f6569.chunk.js.LICENSE.txt",
+    "static/media/Android-app-development.066c3dda.jpg": "/ReactWebsite3/static/media/Android-app-development.066c3dda.jpg",
+    "static/media/DNR.c9dd5fe0.jpg": "/ReactWebsite3/static/media/DNR.c9dd5fe0.jpg",
+    "static/media/DigitalMarketing.6ff55b94.jpg": "/ReactWebsite3/static/media/DigitalMarketing.6ff55b94.jpg",
+    "static/media/Hamza.251b54e3.jpeg": "/ReactWebsite3/static/media/Hamza.251b54e3.jpeg",
+    "static/media/ITSolutions.991cdab6.jpg": "/ReactWebsite3/static/media/ITSolutions.991cdab6.jpg",
+    "static/media/Jawad.6a4c8dd5.jpeg": "/ReactWebsite3/static/media/Jawad.6a4c8dd5.jpeg",
+    "static/media/Munsif.acafe8e0.jpeg": "/ReactWebsite3/static/media/Munsif.acafe8e0.jpeg",
+    "static/media/SEO.00a7a2f1.jpg": "/ReactWebsite3/static/media/SEO.00a7a2f1.jpg",
+    "static/media/Usman.69a65b53.jpeg": "/ReactWebsite3/static/media/Usman.69a65b53.jpeg",
+    "static/media/Wahab.ae5307e0.jpeg": "/ReactWebsite3/static/media/Wahab.ae5307e0.jpeg",
+    "static/media/arslan.2adc544c.jpeg": "/ReactWebsite3/static/media/arslan.2adc544c.jpeg",
+    "static/media/hassanAliShahKazmii.5319d8dc.jpeg": "/ReactWebsite3/static/media/hassanAliShahKazmii.5319d8dc.jpeg",
+    "static/media/webDev.41a3d8cf.png": "/ReactWebsite3/static/media/webDev.41a3d8cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d05df7db.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5d4f6569.chunk.js",
+    "static/css/main.b75fa142.chunk.css",
+    "static/js/main.30b15669.chunk.js"
+  ]
+}
