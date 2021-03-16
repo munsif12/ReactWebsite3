@@ -7,7 +7,4 @@
 ### <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/teamMembers.PNG" align="center"/>
 ---
 ### <h3 align="center">Mobile View </h3>
-### <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_errorPage.PNG" align="center"/>
-### <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_about.PNG" align="center"/>
-### <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/M_contect.PNG" align="center"/>
-### <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_services.PNG" align="center"/>
+<img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_errorPage.PNG" align="center" margin="100p"/> ! ###<img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_about.PNG" align="center"/> ! <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/M_contect.PNG" align="center"/> ! ###<img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/m_services.PNG" align="center"/>
