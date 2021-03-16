@@ -6,10 +6,11 @@
 
 ---
 
-### <h2 align="center">Desktop View </h2>
-
----
+### <h2 align="center">Desktop View </h2> 
  - <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/homePage.PNG" align="center"/> 
+  ---
  - <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/Contectpage.PNG" align="center"/>
+  ---
 - <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/servicesPage.PNG" align="center"/>
+---
 -  <img src="https://github.com/munsif12/ReactWebsite3/blob/master/src/projectImages/teamMembers.PNG" align="center"/>
